@@ -20,6 +20,9 @@ La idea es tener un recorrido paso a paso con teoría + ejercicios, a modo de cu
 8. [Condicionales](src/08-condicionales.py)
 9. [Bucles](src/09-bucles.py)
 
+### 🔹 Estructuras de Datos
+10. [Listas](src/10-estructura_listas.py)
+
 
 ## 🚀 Cómo usar este repositorio
 

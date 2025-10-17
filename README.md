@@ -23,7 +23,7 @@ La idea es tener un recorrido paso a paso con teoría + ejercicios, a modo de cu
 ### 🔹 Estructuras de Datos
 10. [Listas](src/10-estructura_listas.py)
 11. [Tuplas](src/11-estructura_tuplas.py)
-
+12. [Conjuntos](src/12-estructura_conjuntos.py)
 
 ## 🚀 Cómo usar este repositorio
 

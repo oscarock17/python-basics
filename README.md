@@ -24,6 +24,7 @@ La idea es tener un recorrido paso a paso con teoría + ejercicios, a modo de cu
 10. [Listas](src/10-estructura_listas.py)
 11. [Tuplas](src/11-estructura_tuplas.py)
 12. [Conjuntos](src/12-estructura_conjuntos.py)
+13. [Diccionarios](src/13-estructura_diccionarios.py)
 
 ## 🚀 Cómo usar este repositorio
 

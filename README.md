@@ -26,6 +26,9 @@ La idea es tener un recorrido paso a paso con teoría + ejercicios, a modo de cu
 12. [Conjuntos](src/12-estructura_conjuntos.py)
 13. [Diccionarios](src/13-estructura_diccionarios.py)
 
+### 🔹 Funciones, Errores y POO
+14. [Funciones](src/14-funciones.py)
+
 ## 🚀 Cómo usar este repositorio
 
 1. Clona el proyecto:

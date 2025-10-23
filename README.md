@@ -29,6 +29,7 @@ La idea es tener un recorrido paso a paso con teoría + ejercicios, a modo de cu
 ### 🔹 Funciones, Errores y POO
 14. [Funciones](src/14-funciones.py)
 15. [Manejo de Errores](src/15-manejo_errores.py)
+16. [Programación Orientada a Objetos (POO)](src/16-poo.py)
 
 ## 🚀 Cómo usar este repositorio
 
